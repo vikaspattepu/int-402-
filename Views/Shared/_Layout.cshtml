@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Robbie Lens</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/RobiStyleSheet.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/RobbiStyleSheet.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Robi_lens.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav>
+            <a class="icone-lien" asp-area="" asp-controller="Home" asp-action="Index"><img src="~/img/Robbie_lens.png" /> </a>
+            <div>
+                <a  asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                <a  asp-area="" asp-controller="Home" asp-action="About">About</a>
+                <a  asp-area="" asp-controller="Home" asp-action="Portfolio">Portfolio</a>
+                <a  asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+                       
+        </main>
+    </div>
+    <footer>
+        <a class="icone-lien" asp-area="" asp-controller="Home" asp-action="Index"><img src="~/img/Robbie_lens.png" /> </a>
+        <div class="container">
+            &copy; 2024 - Robbie Lens - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+        
+            <a href="https://twitter.com/" target="_blank" class="icone-lien">
+                <img src="~/img/icons8-twitterx-37.png" alt="twiter Logo">
+            </a>
+            <a href="https://www.instagram.com/" target="_blank" class="icone-lien">
+                <img src="~/img/instagram.png" alt="instagram Logo">
+            </a>
+        
+    </footer>
+
+    
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

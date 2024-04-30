@@ -1,0 +1,121 @@
+﻿.Accueil-photo {
+    background-color: whitesmoke;
+    padding: 80px;
+}
+
+    .Accueil-photo h2 {
+        color: #242424;
+        text-align: center;
+        margin-bottom: 80px;
+    }
+
+    .Accueil-photo div {
+        display: flex;
+        flex-direction: row;
+        gap: 15px;
+        justify-content: center;
+        margin-bottom: 15px;
+    }
+
+.Accueil-Introdution {
+    display: flex;
+    flex-direction: row;
+    max-width: 1000px;
+    align-items: flex-start;
+    margin: auto;
+}
+.Accueil-Introdution img{
+    width:500px;
+    height:500px;
+}
+
+    .Accueil-Introdution h1 {
+        margin-bottom: 15px;
+    }
+
+    .Accueil-Introdution p {
+        margin-bottom: 30px;
+    }
+
+    .Accueil-Introdution div {
+        padding-right: 80px;
+    }
+
+.section-contact h2 {
+    color: #a5b4fc;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    color: whitesmoke;
+}
+
+.form_nom-mail {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.form-column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+input, textarea {
+    padding: 15px;
+    border-radius: 3px;
+    border: none;
+}
+
+label {
+    margin-bottom: 10px;
+}
+
+input[type='submit'] {
+    width: 200px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+@media screen and (max-width:996px) {
+    .Accueil-Introdution {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+        .Accueil-Introdution div {
+            padding-right: 0;
+            text-align: center;
+            order: 2;
+        }
+
+        .Accueil-Introdution img {
+            order: 1;
+            margin-bottom: 20px;
+            width: 100%;
+        }
+
+    .Accueil-photo {
+        padding: 20px;
+    }
+
+        .Accueil-photo div {
+            flex-direction: column;
+        }
+
+    .section-contact {
+        padding: 50px 20px;
+    }
+
+    .form_nom-mail {
+        flex-direction: column;
+        gap: 0;
+    }
+}

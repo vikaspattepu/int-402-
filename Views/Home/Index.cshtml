@@ -1,0 +1,65 @@
+﻿@{
+	ViewData["Title"] = "Home";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Accueil-Robbie Lens Photography</title>
+	<link rel="stylesheet" type="text/css" href="~/css/RobiStyleSheet.css">
+	<link rel="stylesheet" type="text/css" href="~/css/RobbiStyleSheet.css">
+	<link href="https://fonts.googleapis.com/css2?family=Manrope&family=Montserrat&display=swap" rel="stylesheet">
+</head>
+<body>
+	<main>
+		<section class="Accueil-Introdution">
+			<div>
+				<h1>Robbie Lens Photography</h1>
+				<p>Where <em>professionalism</em> combines with <em>passion</em>. For more than 5 years now, I have been practicing my profession with the passion that drives me: capturing the essence of each moment.</p>
+				<a href="#contact" class="cta">A PROJECT ? TEXT-ME</a>
+			</div>
+			<img src="~/img/robbie-lens.png" alt="Portrait de la Photographe Robbie Lens">
+		</section>
+
+		<section class="Accueil-photo">
+			<h2>My recent project</h2>
+			<div>
+				<img src="~/img/element-1.png" alt="12 apostles Austalia"/>
+				<img src="~/img/element-2.png" alt="Wai-O-Tapu New Zealand">
+				<img src="~/img/element-3.png" alt="Parc National d'Abel Tasman - New Zealand">
+			</div>
+
+			<div>
+				<img src="~/img/element-4.png" alt="Lac Rotorua - New Zealand">
+				<img src="~/img/element-5.png" alt="Milford Sound - New Zealand">
+				<img src="~/img/element-6.png" alt="Lac Wanaka - New Zealand">
+			</div>
+
+		</section>
+
+		<section id="contact" class="section-contact">
+			<h2>Let's talk about your project</h2>
+
+			<form method="post" autocomplete="on" action="">
+				<div class="form_nom-mail">
+					<div class="form-column">
+						<label for="nom">Name</label>
+						<input type="text" name="Name" id="nom">
+					</div>
+					<div class="form-column">
+						<label for="email">Email</label>
+						<input type="email" name="Email" id="email">
+					</div>
+				</div>
+				<label for="message">Message</label>
+				<textarea name="Message" id="message" rows="10"></textarea>
+				<input type="submit" value="SEND" class="cta">
+			</form>
+		</section>
+
+	</main>
+	
+</body>
+</html>
