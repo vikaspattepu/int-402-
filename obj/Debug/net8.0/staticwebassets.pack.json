@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Robi_lens.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Robi_lens.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\css\\Apropos.css",
+      "PackagePath": "staticwebassets\\css\\Apropos.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\css\\Portfolio.css",
+      "PackagePath": "staticwebassets\\css\\Portfolio.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\css\\RobbiStyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\RobbiStyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\css\\RobiStyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\RobiStyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\css\\privacy.css",
+      "PackagePath": "staticwebassets\\css\\privacy.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\Robbie_lens.png",
+      "PackagePath": "staticwebassets\\img\\Robbie_lens.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\element-1.png",
+      "PackagePath": "staticwebassets\\img\\element-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\element-2.png",
+      "PackagePath": "staticwebassets\\img\\element-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\element-3.png",
+      "PackagePath": "staticwebassets\\img\\element-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\element-4.png",
+      "PackagePath": "staticwebassets\\img\\element-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\element-5.png",
+      "PackagePath": "staticwebassets\\img\\element-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\element-6.png",
+      "PackagePath": "staticwebassets\\img\\element-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\icons8-twitterx-37.png",
+      "PackagePath": "staticwebassets\\img\\icons8-twitterx-37.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\icons8-twitterx-50.png",
+      "PackagePath": "staticwebassets\\img\\icons8-twitterx-50.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\instagram.png",
+      "PackagePath": "staticwebassets\\img\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\paysage1.jpg",
+      "PackagePath": "staticwebassets\\img\\paysage1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\paysage2.jpg",
+      "PackagePath": "staticwebassets\\img\\paysage2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\paysage3.jpg",
+      "PackagePath": "staticwebassets\\img\\paysage3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\paysage4.jpg",
+      "PackagePath": "staticwebassets\\img\\paysage4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\paysage5.jpg",
+      "PackagePath": "staticwebassets\\img\\paysage5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\paysage6.jpg",
+      "PackagePath": "staticwebassets\\img\\paysage6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\paysage7.jpg",
+      "PackagePath": "staticwebassets\\img\\paysage7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\paysage8.jpg",
+      "PackagePath": "staticwebassets\\img\\paysage8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\paysage9.jpg",
+      "PackagePath": "staticwebassets\\img\\paysage9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\portrait1.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\portrait2.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\portrait3.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\portrait4.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\portrait5.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\portrait6.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\robbie-lens.png",
+      "PackagePath": "staticwebassets\\img\\robbie-lens.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\img\\twitter.png",
+      "PackagePath": "staticwebassets\\img\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\INT402_project-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Robi_lens.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Robi_lens.props",
+      "PackagePath": "build\\Robi_lens.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Robi_lens.props",
+      "PackagePath": "buildMultiTargeting\\Robi_lens.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Robi_lens.props",
+      "PackagePath": "buildTransitive\\Robi_lens.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
